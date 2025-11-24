@@ -81,6 +81,7 @@ As tarefas foram divididas em cartões do Trello, contendo descrição, respons�
 
 https://www.figma.com/design/rNlUnQEi2apHG1o84yMTMY/Book-ocean?node-id=0-1&t=EZ6zfRpiSwvFQVct-1
 https://share.google/ylg3Oguh6yMDYQDET
+https://docs.google.com/document/d/1DhyRljPW9AxuBzPmtSz7RKqlkcegyHhbNsHtq1l_YYQ/edit?usp=sharing
 
      8. **Créditos**:
          Nome da instituição: Rede Sesi Senai.
