@@ -35,7 +35,10 @@ Muitos alunos possuem livros parados em casa e têm pouco acesso a novas leitura
    
    Documentador= Gabriel - Produz e organiza toda a documentação do projeto, incluindo relatórios, atas e o README.md.
    
-   Analista= Haniel - Analisa os requisitos, verifica o que o sistema precisa ter e define melhorias e funcionalidades.
+   Analista= Haniel - Analisa os requisitos, verifica o que o sistema precisa ter e define melhorias e 
+funcionalidades.
+
+   Testador= Kaique - Verifica se tudo funciona como o planejado, encontra erros e manda corrigir.
    
    Designer= Ana Julia -Cria o protótipo, telas, identidade visual e toda a parte estética do projeto no Figma.
 
