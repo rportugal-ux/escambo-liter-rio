@@ -86,6 +86,9 @@ https://www.figma.com/design/rNlUnQEi2apHG1o84yMTMY/Book-ocean?node-id=0-1&t=EZ6
 https://share.google/ylg3Oguh6yMDYQDET
 https://docs.google.com/document/d/1DhyRljPW9AxuBzPmtSz7RKqlkcegyHhbNsHtq1l_YYQ/edit?usp=sharing
 
+https://www.canva.com/design/DAG5u5_7ZKE/wyQ0X3-62NyMIbAoInUiMA/edit?utm_content=DAG5u5_7ZKE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
      8. **Créditos**:
          Nome da instituição: Rede Sesi Senai.
         professor orientador: Adalberto Teixeira Santana.
