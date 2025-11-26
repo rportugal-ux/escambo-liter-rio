@@ -1,4 +1,4 @@
-# escambo-liter-rio
+# escambo literário
 trabalho do senai.
 
 1. **Nome do projeto**:
